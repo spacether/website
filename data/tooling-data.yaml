@@ -419,7 +419,7 @@
 - name: OpenAPI JSON Schema Generator
   description: 'OpenAPI JSON Schema Generator allows auto-generation of API client libraries with a focus on JSON schema given an OpenAPI document'
   toolingTypes:
-    ['validator', 'code-to-schema', 'documentation', 'schema-to-code']
+    ['validator', 'documentation', 'schema-to-code']
   languages: ['Java', 'Kotlin', 'Python']
   maintainers:
     - name: 'Justin Black'
